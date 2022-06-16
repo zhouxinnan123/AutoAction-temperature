@@ -118,6 +118,6 @@ else:
     z = "填写时间未到，或填写失败"
 
 file = open("mydata.html", 'w+', encoding='UTF-8')
-file.write(b + '*****' + c + '*****' + d + '*****' + e + '*****' + f + '*****' + z + '*****' + a)
+file.write(a +'*****'+ z +'*****'+ b + '*****' + c + '*****' + d + '*****' + e + '*****' + f)
 file.close()
 
