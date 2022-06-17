@@ -37,14 +37,14 @@ on:
   #在UTC时间1:10,3:10运行，也就是北京时间9点10分和11点10分
   
 ```
-8.上面代码提交之后，会自动运行。同时你也可以点击star运行action
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200618223210719.png)
+8.上面代码提交之后，会自动运行。同时也可以在Actions中运行
+
 9.运行情况
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020061822350874.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3BvbGljZV8x,size_16,color_FFFFFF,t_70)
 
 10.运行结束后，会有邮件发送
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200618223940995.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3BvbGljZV8x,size_16,color_FFFFFF,t_70)
-11.之后要是不需要每天填报了，那进入setting-》action-》选择Disable Actions for this repository。该仓库的工作流将不再运行。
+11.之后要是不需要每天填报了，那进入setting-》action-》选择Disable Action。该仓库的工作流将不再运行。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200619100121815.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3BvbGljZV8x,size_16,color_FFFFFF,t_70)
 参考链接：[GitHub Actions 入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
 
