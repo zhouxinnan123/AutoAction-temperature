@@ -14,6 +14,7 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200618182802385.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3BvbGljZV8x,size_16,color_FFFFFF,t_70)
 3.配置你的账号和密码。在工程的secrets里面放置你的账号和密码。同样的，如果你不需要发送邮件通知可以不添加邮件配置。（EMAILNAME和EMAILPOP两个变量名需要跟tiwentianbao.yml代码里面的一致）
 ![在这里插入图片描述](https://github.com/13063516125/AutoAction-temperature/blob/master/IMAGE/secrets.png)
+
 4.点击打开autoclick.py文件，并修改信息。
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200618172029327.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3BvbGljZV8x,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200618172541226.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3BvbGljZV8x,size_16,color_FFFFFF,t_70)
