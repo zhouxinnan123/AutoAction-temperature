@@ -1,5 +1,5 @@
 # AutoAction-temperature—简介
-  自动填报晨午检。借鉴[GitHub Action自动完成华工疫情打卡、网站自动签到](https://blog.csdn.net/police_1/article/details/106837694)、[河北科大每日晨午检](https://blog.csdn.net/m0_47319143/article/details/119823717?ops_request_misc=&request_id=&biz_id=102&utm_term=%E6%B2%B3%E5%8C%97%E7%A7%91%E5%A4%A7%E4%BD%93%E6%B8%A9&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-119823717.142^v20^control,157^v15^new_3&spm=1018.2226.3001.4187)
+  自动填报晨午检。整合[GitHub Action自动完成华工疫情打卡、网站自动签到](https://blog.csdn.net/police_1/article/details/106837694)、[河北科大每日晨午检](https://blog.csdn.net/m0_47319143/article/details/119823717?ops_request_misc=&request_id=&biz_id=102&utm_term=%E6%B2%B3%E5%8C%97%E7%A7%91%E5%A4%A7%E4%BD%93%E6%B8%A9&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-119823717.142^v20^control,157^v15^new_3&spm=1018.2226.3001.4187)
 # 准备工作
     1.一个github账号
     2.一个163邮箱账号：用于发送签到成功邮件，推荐添加，为了方便验证是否签到成功（可选）
