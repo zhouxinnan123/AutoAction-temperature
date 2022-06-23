@@ -30,7 +30,7 @@ jobs:
         password: ${{ secrets.EMAILPOP }}
         subject: 晨午检填报
         body: file://mydata.html
-        to: 25690476@qq.com   #填写要收件邮箱名
+        to: 256904767@qq.com   #填写要收件邮箱名
         from: GitHub Actions
         content_type: text/html
         
