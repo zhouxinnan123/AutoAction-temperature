@@ -16,8 +16,8 @@ url3 = f"http://xscfw.hebust.edu.cn/survey/surveySave?timestamp={timetamp}"
 
 # 账号信息
 param = {
-    "stuNum": "xxx",#此处输入学号
-    "pwd": "xxx",#此处输入密码
+    "stuNum": "2102100132",#此处输入学号
+    "pwd": "Zjl1584572446...",#此处输入密码
     "vcode": "",
 }
 #
