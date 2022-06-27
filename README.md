@@ -55,7 +55,7 @@ on:
 
 10.运行结束后，会有邮件发送
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/8bdaab30a62e40d68b5442eb2ea2a181.png#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/312a0454449c4e0ba01f93beb791daee.png#pic_center)
 
 11.之后要是不需要每天填报了，那进入setting-》action-》选择Disable Action。该仓库的工作流将不再运行。
 
