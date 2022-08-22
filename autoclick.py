@@ -28,7 +28,7 @@ header = {
 
 try:
     response = r.post(url=url, params=param, headers=header)
-    sleep(20)
+    sleep(40)
     cookiesJAR = response.cookies  # 获取cookies
     cookies = cookiesJAR.get_dict()  # 把cookies写成字典形式
     res = r.get(url=url2, headers=header, cookies=cookies, params=param)
