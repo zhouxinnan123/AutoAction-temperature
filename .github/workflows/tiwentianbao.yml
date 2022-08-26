@@ -3,7 +3,7 @@ name: tiwentianbao
 on:
   workflow_dispatch: #在actions界面点击即可运行
   schedule:
-    - cron: '10 1 * * *'  
+    - cron: '10 1,5 * * *'  
   #北京时间11点10分自动运行
 jobs:
   build:
